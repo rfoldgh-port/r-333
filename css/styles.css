@@ -1,0 +1,14 @@
+.search-container{
+	text-align:center;
+	border:2px solid blue;
+
+}
+
+.search-input{
+	
+	padding-bottom:5em;
+}
+
+.hidden {
+	display:none;
+}
